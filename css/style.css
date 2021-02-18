@@ -5,21 +5,21 @@
 	font-family: sans-serif;
 }
 .intro{
-	background: rgb(28, 18, 83);
+	background: #EAF0F1;
 }
 h1{
-	color: #3a2c2c;
+	color: #4C4B4B;
 	font-weight: bold;
 	transition: 0.5s;
 }
 h3{
-	color:#292d31;
+	color:#2F363F;
 }
 button{
 	border:none;
 	border-radius: 8px;
 	padding: 10px;
-	background:#55a3aa; 
+	background:#7B8788; 
 	color:white;
 	letter-spacing: 1.5px;
 	font-size: 15px;
@@ -29,11 +29,11 @@ button:hover,h1:hover{
 	transform: scale(1.1);
 }
 button:hover{
-	background-color:#5555d8;
+	background-color:#4C4B4B;
 }
 footer{
 	color:#586776;
-	background-color:#4e7e86;
+	background-color:#EAF0F1;
 	letter-spacing: 0.5px;
 }
 footer p{
